@@ -1,0 +1,8 @@
+C:\Users\yavuz\Documents\c# basit çalışmaları\oopProgramming01\oopProgramming01\bin\Debug\oopProgramming01.exe.config
+C:\Users\yavuz\Documents\c# basit çalışmaları\oopProgramming01\oopProgramming01\bin\Debug\oopProgramming01.exe
+C:\Users\yavuz\Documents\c# basit çalışmaları\oopProgramming01\oopProgramming01\bin\Debug\oopProgramming01.pdb
+C:\Users\yavuz\Documents\c# basit çalışmaları\oopProgramming01\oopProgramming01\obj\Debug\oopProgramming01.csproj.AssemblyReference.cache
+C:\Users\yavuz\Documents\c# basit çalışmaları\oopProgramming01\oopProgramming01\obj\Debug\oopProgramming01.csproj.SuggestedBindingRedirects.cache
+C:\Users\yavuz\Documents\c# basit çalışmaları\oopProgramming01\oopProgramming01\obj\Debug\oopProgramming01.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\Documents\c# basit çalışmaları\oopProgramming01\oopProgramming01\obj\Debug\oopProgramming01.exe
+C:\Users\yavuz\Documents\c# basit çalışmaları\oopProgramming01\oopProgramming01\obj\Debug\oopProgramming01.pdb
